@@ -4,3 +4,14 @@
 .main_title{
     text-align:left;
 }
+.about_hr{
+    font-size:20px;
+    width:45px;
+    border: 2px solid #00ff80;
+}
+.card_bg{
+    background-color: rgba(0,255,255,.171);;
+}
+.title_on{
+    color:blue;
+}

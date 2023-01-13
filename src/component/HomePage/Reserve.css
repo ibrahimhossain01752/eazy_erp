@@ -2,6 +2,14 @@
     background: rgba(241, 219, 219, 0.40);
     padding: 20px;
 }
-.book-form-input:focus{
-	outline: 1px solid rgb(24, 163, 173);
+
+.reverse_hr{
+    width:60px;
+    border:2px solid #00ff80;
+}
+.phn_cl{
+    color:#00ff80;
+}
+.phn_num{
+    color: #00ff80;
 }

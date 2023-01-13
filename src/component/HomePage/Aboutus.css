@@ -1,6 +1,10 @@
 .italic{
     font-style: italic;
+    color:grey;
 }
 .text_left{
     text-align: left;
+}
+.symbl_cl{
+    color:#00ff80;
 }

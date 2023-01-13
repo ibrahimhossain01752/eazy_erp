@@ -5,7 +5,7 @@ import './Fusion.css';
 const Fusion = () => {
     return (
         <div>
-        <div class='banner-main3 mt-5'>
+        <div class='banner-main3 mt-5' data-aos="fade-left">
              <div class="banner-overlay">
                  <div class="container">
                      <div class="row">
