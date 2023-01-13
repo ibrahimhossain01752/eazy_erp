@@ -1,15 +1,19 @@
 import React from 'react';
 import './Banner.css';
+// import Header from './Header';
 
 const Banner = () => {
     return (
-        <div class='banner-main text-white'>
+      
+       <div>
+        {/* <Header class="mx-5"/> */}
+         <div class='banner-main text-white'>
             <div class="banner-overlay">
                 <div class="container">
                     <div class="row">
                        <div class="col-lg-6">
-                                <div class="banner-content text-center text-md-start">
-                                    <h6>Because every Business Partner Matters!</h6>
+                                <div class="banner-content text-center text-md-start banner">
+                                    <h6 class="">Because every Business Partner Matters!</h6>
                                     <h1>Fusion DMS 4.0</h1>
                                     <h6>Connecting Everyone</h6>
                                     <h2>Coming on 23 September</h2>
@@ -30,6 +34,7 @@ const Banner = () => {
             </div>
         </div>
 
+       </div>
     );
 };
 
