@@ -3,7 +3,9 @@ import About from './About';
 import Aboutus from './Aboutus';
 import Banner from './Banner';
 import Choose from './Choose';
+import Fusion from './Fusion';
 import Header from './Header';
+import Reserve from './Reserve';
 
 const Home = () => {
     return (
@@ -13,6 +15,8 @@ const Home = () => {
             <About/>
             <Aboutus/>
             <Choose/>
+            <Fusion/>
+            <Reserve/>
         </div>
     );
 };

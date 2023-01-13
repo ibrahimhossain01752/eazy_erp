@@ -1,13 +1,11 @@
 import React from 'react';
 import './Banner.css';
-// import Header from './Header';
 
 const Banner = () => {
     return (
       
        <div>
-        {/* <Header class="mx-5"/> */}
-         <div class='banner-main text-white'>
+       <div class='banner-main text-white'>
             <div class="banner-overlay">
                 <div class="container">
                     <div class="row">
@@ -24,12 +22,8 @@ const Banner = () => {
                                      </div>
                             </div>
                             <div class="col-md-6">
-
                             </div>
-                       
-                       
-                        
-                    </div>
+                       </div>
                 </div>
             </div>
         </div>
